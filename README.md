@@ -4,9 +4,9 @@
 
 ## About me
 
-I'm a second year Computer Science student at Birmingham City University, as well as a software engineer at my University's Software House!
+I'm a second year Computer Science student at Birmingham City University, as well as a software engineer!
 
-I do my main work using Python, sometimes JavaScript as well, though, in my spare time, I really enjoy playing around in C++ and exploring different deep learning applications, as deep learning is one of the fields I am most interested in.
+I do my main work using Python, sometimes JavaScript / TypeScript as well, though, in my spare time, I really enjoy playing around in C++ and exploring different deep learning applications, as deep learning is one of the fields I am most interested in.
 
 For example, I am currently working on a [GAN](https://arxiv.org/pdf/1406.2661.pdf) that generates progressive metal music breakdowns. Since one of my passions, aside from programming, involves progressive metal music, I thought it would be nice to combine them and create a passion-driven project. I plan on expanding this project for my final year dissertation, but until then, I'm just researching and experimenting with stuff. You can find the project [here](https://github.com/j4ndrw/djenerator-GAN).
 
